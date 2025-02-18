@@ -1,0 +1,6 @@
+com\example\starterlogs\Loggable.class
+com\example\starterlogs\LoggingAspect.class
+com\example\starterlogs\batch\LoggingBatchConfig.class
+com\example\starterlogs\LoggingService.class
+com\example\starterlogs\StarterLogsApplication.class
+com\example\starterlogs\StarterLogsAutoConfiguration.class
